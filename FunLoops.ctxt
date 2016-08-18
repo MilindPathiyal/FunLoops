@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ start()
+comment1.params=one\ two
+comment1.target=int\ findLCM(int,\ int)
+comment2.params=forward
+comment2.target=int\ reverse(int)
+comment3.params=number
+comment3.target=int\ printMagicSquares(int)
+numComments=4
